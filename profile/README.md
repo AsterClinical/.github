@@ -24,6 +24,10 @@ Aster Clinical is being built around the small frictions that accumulate during 
 
 Our aim is simpler: focused tools that keep the clinical visit together, reduce clerical friction, and stay out of the way of clinical work.
 
+<picture>
+  <img src="../assets/AsterClinical_CDP_screenshot" width="1672" alt="Aster Clinical CDP screenshot">
+</picture>
+
 ## Current work
 
 | Project | What it is |
