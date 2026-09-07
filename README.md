@@ -1,34 +1,9 @@
-                [Aster mark]
-              ASTER CLINICAL™
+# AsterClinical/.github
 
-Practical software for everyday clinical work.
+This special public repository powers the public profile of the **Aster Clinical™** GitHub organization.
 
-Independent doctors • Small clinics • Clinical workflows
+The organization-facing content lives in [`profile/README.md`](profile/README.md). Theme-aware copies of the compact Aster cat mark live in [`assets/`](assets/).
 
-[ Website ]  [ Join Beta ]  [ Brand Assets ]
+For the canonical brand system, usage guidance, asset provenance, and trademark policy, see [`AsterClinical/brand-assets`](https://github.com/AsterClinical/brand-assets).
 
-────────────────────────────────────────────
-
-What we build
-Short paragraph — practical clinical software, not generic enterprise systems.
-
-Current work
-• Aster Clinical desktop application
-• Clinical Document Platform Format (CDPF)
-• Brand assets & identity system
-
-Our approach
-Fast • Practical • Clinician-led • Open where appropriate
-
-Open development
-Brief explanation that some standards/components are public/open-source,
-while Aster Clinical branding remains separate.
-
-Brand
-Link to brand-assets repository + trademark statement.
-
-Contact
-asterclinical.com
-admin@asterclinical.com
-
-Aster Clinical™
+Official website: [asterclinical.com](https://asterclinical.com/)
