@@ -12,7 +12,7 @@
 
 Clinical software shaped around the real workflows of **independent doctors and small clinics**.
 
-[Website](https://asterclinical.com/) · [Join Beta](https://asterclinical.com/#beta) · [Brand assets](https://github.com/AsterClinical/brand-assets)
+[Website](https://asterclinical.com/) · [Documentation](https://asterclinical.com/documentation) · [MR Portal](https://asterclinical.com/corporate/) · [Playbooks](https://github.com/AsterClinical/Aster-Playbooks) · [Join Beta](https://asterclinical.com/#beta) · [Brand assets](https://github.com/AsterClinical/brand-assets)
 
 </div>
 
@@ -33,6 +33,9 @@ Our aim is simpler: focused tools that keep the clinical visit together, reduce 
 | Project | What it is |
 | --- | --- |
 | **Aster Clinical** | A desktop clinical application for patient records, structured visits, prescription workflow, investigations, medication entry, visit history, and print-ready clinical output. The first product is currently in invite-only beta. |
+| **[Aster Playbooks](https://github.com/AsterClinical/Aster-Playbooks)** | An open library of reusable, human-readable clinical workflow Playbooks, examples, and authoring documentation for Aster Desktop. |
+| **[Aster Clinical Documentation](https://asterclinical.com/documentation)** | Product documentation, practical guides, and reference material for Aster Clinical software and workflows. |
+| **[Aster MR Portal](https://asterclinical.com/corporate/)** | The MR Portal for medical representatives and corporate engagement with Aster Clinical. |
 | **[Clinical Document Platform Format (CDPF)](https://github.com/AsterClinical/clinical-document-platform-format)** | A public specification for structured clinical documents and interoperable clinical-document workflows. |
 | **[Aster Clinical Brand Assets](https://github.com/AsterClinical/brand-assets)** | The canonical home of Aster's mascot family, compact cat marks, typography development assets, provenance records, and public brand-use guidance. |
 
